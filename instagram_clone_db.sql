@@ -10,7 +10,8 @@ CREATE TABLE users
 INSERT into users(username)
 VALUES ('Blue the Cat'),
        ('Charlie Brown'),
-       ('Colt Steele');
+       ('Colt Steele'),
+        ('Colt Steele');
 
 
 CREATE TABLE photos
